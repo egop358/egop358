@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @egop358
-- 👀 I’m interested in ... Drones and proxies
-- 🌱 I’m currently learning ... Gdevlop
+https://badgen.net/badge/html/5/orange
